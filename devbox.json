@@ -1,0 +1,14 @@
+{
+  "ports": {
+    "8080": {
+      "description": "Frontend server",
+      "protocols": ["http"],
+      "access": "public"
+    },
+    "8081": {
+      "description": "Backend server",
+      "protocols": ["http"],
+      "access": "public"
+    }
+  }
+} 

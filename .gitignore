@@ -1,0 +1,85 @@
+# 依赖目录
+node_modules/
+dist/
+dist-ssr/
+
+# 日志文件
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# 编辑器目录和文件
+.vscode/*
+!.vscode/extensions.json                                                
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+
+# 本地环境文件
+*.local
+.env.local
+.env.*.local
+
+# 构建文件
+dist/
+dist-ssr/
+coverage/
+
+# Go 相关
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
+
+# 临时文件
+tmp/
+temp/
+
+# 视频文件
+*.mp4
+*.avi
+*.mov
+*.wmv
+*.flv
+*.mkv
+*.webm
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE 配置
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 前端构建缓存
+.cache/
+.temp/
+.hot/
+
+# 后端编译文件
+bin/
+build/
+
+# 配置文件（根据需要添加）
+# config.yaml
+# .env
+
+# 其他
+*.bak
+*.swp
+*~ 

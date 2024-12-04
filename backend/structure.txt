@@ -1,0 +1,8 @@
+backend/
+├── api/            # API 处理器
+├── config/         # 配置文件
+├── internal/       # 内部包
+│   ├── middleware/ # 中间件
+│   └── service/    # 业务逻辑
+├── pkg/            # 可重用的包
+└── main.go         # 主入口文件 
